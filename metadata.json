@@ -1,0 +1,7 @@
+{
+  "name": "Notiq",
+  "description": "An intelligent voice note application that records, transcribes, summarizes, and tags your thoughts using AI. Click 'New Note' to start recording.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
